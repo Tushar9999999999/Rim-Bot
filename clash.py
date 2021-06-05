@@ -24,3 +24,4 @@ def search_clan():
 	clan_json=response.json()
 	for clan in clan_json['items']:
 		print(clan['name'] + ":" + str(clan['clanLevel']))
+ 
