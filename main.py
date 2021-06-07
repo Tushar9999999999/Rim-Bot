@@ -35,7 +35,7 @@ async def on_member_join(member):
 Hey {member.mention}, welcome to {guild.name}!
 Our clan information is available in <#749574106982383657> .
 Pls wait while someone gets in touch with you. Guest roles till then.
-Potential Joinees- Post profile ss/ mention TH lvl.
+Potential Joinees- Pls mention your town hall level and you player tag.
 Clan members - Let us know your clan and name for the member role.
 IMP- Change you nickname to your In Game Name (IGN). Thanks
 ''')
